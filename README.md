@@ -4,7 +4,7 @@ A decentralized application for event ticketing using NFTs, blockchain technolog
 
 ## Features
 
-- **NFT-Based Tickets**: Each ticket is a unique NFT on the Ethereum blockchain (NFT-Non Fungible Tokens)
+- **NFT-Based Tickets**: Each ticket is a unique NFT on the Ethereum blockchain.
 - **Event Creation and Management**: Create and manage events with customizable details
 - **AI-Generated Ticket Images**: Unique ticket designs generated based on event themes
 - **QR Code Verification**: Secure entry with QR code verification at venues
